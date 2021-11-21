@@ -11,24 +11,15 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Computer science undergraduate interests in, CG and CV.
+Computer science undergrauate interests in game development, CG and CV.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Co-founder and Software Engineer of RhythMo</span> <span>Jan 2021 -- present</span>
-
-[RhythMo](https://rhythmo.cn) is a new technology company focused on development of lightweight virtual digital human generation and driving technology. I am both a co-funder of the company and software engineer researching and developing the [new CPU only or portable device based monocular RGB motion capture and driven solution](https://www.bilibili.com/video/BV1Xg411K7wY?share_source=copy_web).
-
-### <span>Internship as Computer Graphics Engineer in Netease Games(Guangzhou)</span> <span>Jul 2021 -- Sept 2021</span>
-
-[Netease Games](https://www.neteasegames.com) is an affiliate of NetEase (NASDAQ: NTES). NetEase Games is the 2nd largest game developer worldwide by revenue.
-
 ### <span>Research Assistant in VDI center </span> <span>Dec 2020 -- present</span>
 
-[Visual and Data Intelligence Center](http://vic.shanghaitech.edu.cn/) focus on computer vision and computer graphics. My current topic in VDI is about monocular full body human motion capture.
-
+[Visual and Data Intelligence Center](http://vic.shanghaitech.edu.cn/) focus on computer vision and computer graphics. My current topic in VDI is about monocular full body human motion capture with audio assistance.
 
 ## Projects
 
@@ -62,15 +53,16 @@ hand -->
 
 ### <span>Shanghaitech University, Computer Science and Technology</span> <span>2018 -- present</span>
 
-  - GPA 3.3, TOEFL 102, GRE 155(verbal) + 169(math)
+  - GPA 3.3, TOEFL 100
 
-### <span>University of Michigan, Ann Arbor </span> <span>Feb 2021 -- May 2021</span>
+### <span>University of Michigan, Ann Arbor </span> <span>2021 -- present</span>
 
-  - Transfer student in LSA, GAP 3.8
+  - Transfer student in LSA
 
 ## Skills
 
  - Game Development: Unity, OpenGL, Direct3D, Computer Graphics
- - Frequently Used PL: C/C++, C#, Python, Lua
- - Machine Learning: Tensor Flow, Cuda, Caffe
+ - Frequently Use PL: C/C++, Python, C#, Lua
+ - Learnt PL: Haskell, Rust, Elisp, Cuda, HLSL/GLSL/CG/Unity Shader Lab
+ - Machine Learning: PyTorch, TensorFlow, Caffe, Cuda
  - Other: (Arch) Linux, (Neo)Vim, Visual Studio, JetBrains
