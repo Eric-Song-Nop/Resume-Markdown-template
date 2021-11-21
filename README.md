@@ -73,3 +73,4 @@ person.
 
 Use `git diff --word-diff` to make `git diff` more legible (this applies any
 time you run git diff on natural language).
+
