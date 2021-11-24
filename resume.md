@@ -73,7 +73,7 @@ hand -->
 
 ### <span>University of Michigan, Ann Arbor </span> <span>Feb 2021 -- May 2021</span>
 
-  - Transfer student in LSA, GAP 3.8
+  - Transfer student in LSA, GPA 3.8
 
 ## Skills
 
