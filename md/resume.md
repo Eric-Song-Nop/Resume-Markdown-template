@@ -24,7 +24,7 @@ MSc in Computer Science, interests in PL, System, CG/CV, and more.
 ### <span>Bachelor of Engineer, Shanghaitech University</span> <span>Sept 2018 -- Jun 2022</span>
 
 - Major in Computer Science and Technology
-- PL, Compiler, CG, CV, Program Analysis...
+- Compiler, CG, CV, Program Analysis...
   <!-- - GPA 3.3, TOEFL 102, GRE 155(verbal) + 169(math) -->
 
 ### <span>Transfer student, University of Michigan, Ann Arbor, LSA </span> <span>Feb 2021 -- May 2021</span>
