@@ -6,6 +6,7 @@ line. It is intended to be used for contact details -->
 - <EricYFSong@gmail.com>
 - CN: (+86) 17721351512, NL: (+31) 0683328403
 - [GitHub](https://github.com/Eric-Song-Nop/)
+- [Blog](https://Eric-Song-Nop.github.io)
 - Delft, NL or Shanghai, CN
 
 <!-- - [Blog and CV](http://121.4.19.237/) -->
@@ -42,7 +43,7 @@ hand -->
 [Rhythmo](https://rhythmo.cn) is a startup company providing intelligent solutions for lightweight virtual digital human generation and driving.
 
 - Only CPU or single iPhone needed for over 25fps motion capture.
-- Able to drive multiple popular human model type including fbx, vrm and much more.
+- Able to drive multiple popular human model types including fbx, vrm and much more.
 - Full body capture and model driving solution with body, hand and a morphing based solution for face.
 
 ### <span>Internship, Computer Graphics Engineer, Netease Games(Guangzhou)</span> <span>July. 2021 -- Sept. 2021</span>
@@ -51,7 +52,7 @@ hand -->
 
 - A deserialize and serialize library for Unity Shaderlab.
 - More comprehensive API than Unity build in serializer.
-- Supporting full orignal Shaderlab functionality and extending with importing
+- Supporting full original Shaderlab functionality and extending with importing
 and exporting features.
 
 <!-- 
@@ -88,7 +89,7 @@ My current topic in VDI is about monocular full body human motion capture. -->
 
 ### [coc-glslx](https://github.com/Eric-Song-Nop/coc-glslx)
 
-- A [coc.nvim](https://github.com/neoclide/coc.nvim) plugin to provide diagnostics and autocompletion for GLSL lang. 
+- A [coc.nvim](https://github.com/neoclide/coc.nvim) plugin to provide diagnostics and autocompletion for GLSL lang.
 - Basic taste of Microsoft Language Server Protocol, built in JavaScript and TypeScript.
 
 ### Profiler for Cuda
@@ -103,7 +104,8 @@ Working with my professor: Soham Chakraborty
  <!-- - Game Development: Unity, OpenGL, Direct3D, Computer Graphics -->
 
 - **Programming Languages**: experienced in C/C++, C#/F#, Python, Lean, Rust, Cuda(in frequency order)
-- **Compiler**: knowledge and work on some weak memory order, profiling and other analysis
+- **Compiler**: knowledge and work on some weak memory order, profiling, type system and other analysis
+- **Formalization** knowledge with basic category theory and the use of Lean theorem prover
 - **Machine Learning Tools**: experienced with TensorRT, Tensor Flow, and Cuda
 - **Development Tools**: can adapt to any editors/OS, usually NeoVim/VSCode in PopOS/Arch
 - **Languages**: Mandarain Chinese(Native), English(Fluent)
